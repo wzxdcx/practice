@@ -1,0 +1,104 @@
+!DOCTYPE html>
+		<html>
+			<head>
+				<meta charset="utf-8" />
+				<title></title>  
+				<!-- 引入css -->
+				<link rel="stylesheet" href="css/bycss.css">
+			</head>
+			<body>
+				<!-- 导航开始 -->
+				<div crlass="nav">
+					<!-- 版心：居中的安全显示区域 -->
+					<div class="inner">
+						<!-- logo开始 -->
+						<div class="logo">
+							<h1>
+								<a href="">博雅互动</a>
+							</h1>
+						</div>
+						<!-- logo结束 -->
+						<!-- 菜单开始 -->
+						<div class="list">
+							<ul>
+								<li><a href="">首页</a></li>
+								<li><a href="">博雅游戏</a></li>
+								<li><a href="">博雅新闻</a></li>
+								<li><a href="">关于我们</a></li>
+								<li><a href="">客服中心</a></li>
+								<li><a href="">投资者关系</a></li>
+							</ul>
+						</div>
+						<!-- 菜单结束 -->
+						<!-- 加入我们 -->
+						<div class="joinus">
+							<a href="">加入我们</a>
+						</div>
+						<!-- 加入我们结束 -->
+						<!-- 语言切换开始 -->
+						<div class="lang">
+							<a href="">中文</a>
+							<a href="">EN</a>
+						</div>
+						<!-- 语言切换结束 -->
+					</div>
+					<!-- 版心结束 -->
+				</div>
+				<!-- 导航结束 -->
+			</body>
+		</html>
+
+	</body>
+</html>
+!DOCTYPE html>
+		<html>
+			<head>
+				<meta charset="utf-8" />
+				<title></title>  
+				<!-- 引入css -->
+				<link rel="stylesheet" href="css/bycss.css">
+			</head>
+			<body>
+				<!-- 导航开始 -->
+				<div crlass="nav">
+					<!-- 版心：居中的安全显示区域 -->
+					<div class="inner">
+						<!-- logo开始 -->
+						<div class="logo">
+							<h1>
+								<a href="">博雅互动</a>
+							</h1>
+						</div>
+						<!-- logo结束 -->
+						<!-- 菜单开始 -->
+						<div class="list">
+							<ul>
+								<li><a href="">首页</a></li>
+								<li><a href="">博雅游戏</a></li>
+								<li><a href="">博雅新闻</a></li>
+								<li><a href="">关于我们</a></li>
+								<li><a href="">客服中心</a></li>
+								<li><a href="">投资者关系</a></li>
+							</ul>
+						</div>
+						<!-- 菜单结束 -->
+						<!-- 加入我们 -->
+						<div class="joinus">
+							<a href="">加入我们</a>
+						</div>
+						<!-- 加入我们结束 -->
+						<!-- 语言切换开始 -->
+						<div class="lang">
+							<a href="">中文</a>
+							<a href="">EN</a>
+						</div>
+						<!-- 语言切换结束 -->
+					</div>
+					<!-- 版心结束 -->
+				</div>
+				<!-- 导航结束 -->
+			</body>
+		</html>
+
+	</body>
+</html>
