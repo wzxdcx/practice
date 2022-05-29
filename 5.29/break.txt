@@ -1,0 +1,31 @@
+package com.gxy.loop;
+
+public class TestBreakAndContinue {
+
+	public static void main(String[] args) {
+		
+		// break:跳出switch语句，跳出loop
+		
+		for(int i = 1;i<=10;i++){
+			// 如果数字是6，则跳出循环
+			if(i == 6){
+				break;
+			}
+			
+			System.out.println(i);
+		}
+		
+		// continue:结束当前循环，继续下一次循环
+		for(int i = 1;i<=10;i++){
+			// 如果数字是6，则结束当前循环，继续下一次循环
+			if(i == 6){
+				continue;
+			}
+			
+			System.out.println(i);
+		}
+		
+		
+	}
+	
+}
